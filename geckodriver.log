@@ -1866,3 +1866,150 @@ JavaScript error: https://ad.atdmt.com/i/t.js;adv=11092201684592;ec=110922016852
 1529207995541	Marionette	WARN	TLS certificate errors will be ignored for this session
 
 (/usr/lib/firefox/firefox:16528): dconf-WARNING **: 09:36:39.393: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3568: Error: Set a static height and width on the target element <netflix-text type="netflix-text" id="tuneInText" class="boldFont" data-dynamic-key="Tune_In"><span class="en">Unlimited entertainment,<br>one low price</span></netflix-text> before using textFit!
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 1983: TypeError: document.registerElement is not a function
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3568: Error: Set a static height and width on the target element <netflix-text type="netflix-text" id="tuneInText" class="boldFont" data-dynamic-key="Tune_In"><span class="en">Unlimited entertainment,<br>one low price</span></netflix-text> before using textFit!
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3371: ReferenceError: TweenLite is not defined
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3819: ReferenceError: TweenMax is not defined
+ExceptionHandler::GenerateDump cloned child 17317ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+[Parent 16463, Gecko_IOThread] WARNING: waitpid failed pid:16561 errno:10: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/base/process_util_posix.cc, line 265
+1529211874392	geckodriver	INFO	geckodriver 0.21.0
+1529211874446	geckodriver	INFO	Listening on 127.0.0.1:59759
+1529211874530	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.4EH0EJBRVojW"
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.562: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:17363): Gtk-WARNING **: 10:34:36.564: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529211879497	Marionette	INFO	Listening on port 37297
+1529211879563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529211931242	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1529211931273	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1529211931627	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1529211933807	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1529211933824	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1529211933893	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript warning: moz-extension://14ba4d31-cdde-4511-86d9-9deccfd69a10/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/tweenmax_1.18.0_499ba64a23378545748ff12d372e59e9_min.js, line 15: TypeError: t.currentStyle is undefined
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 474: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 474: TypeError: context.contentWindow is null
+JavaScript error: resource://gre/modules/ExtensionContent.jsm, line 474: TypeError: context.contentWindow is null
+1529212137660	geckodriver	INFO	geckodriver 0.21.0
+1529212137666	geckodriver	INFO	Listening on 127.0.0.1:55077
+1529212138677	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.NDaeTfhYiMHX"
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.874: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.876: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.876: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:17849): Gtk-WARNING **: 10:38:59.877: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529212142173	Marionette	INFO	Listening on port 46429
+1529212142223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529212170072	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1529212170086	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1529212170269	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1529212171983	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1529212172016	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1529212172085	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript warning: moz-extension://88d212cc-661e-40f0-a299-8faa078dbd27/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 1ms; not stored in cache (too small to benefit))
+JavaScript error: https://sumo.b-cdn.net/virtual/dba24d6e0c3f7cfa31e0773cf275536d36c68c86/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js, line 1: Error: Network Error
+JavaScript error: https://sumo.b-cdn.net/virtual/dba24d6e0c3f7cfa31e0773cf275536d36c68c86/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js, line 1: Error: Network Error
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "156085c5-0017-4150-b225-a731ad248f38/service"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "services/services"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://sumo.b-cdn.net/virtual/dba24d6e0c3f7cfa31e0773cf275536d36c68c86/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js, line 1: Error: Network Error
+JavaScript error: https://sumo.b-cdn.net/virtual/dba24d6e0c3f7cfa31e0773cf275536d36c68c86/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js, line 1: Error: Network Error
+1529217690055	geckodriver	INFO	geckodriver 0.21.0
+1529217690184	geckodriver	INFO	Listening on 127.0.0.1:52475
+1529217691073	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.nv6UvUtVfrkH"
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.176: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.252: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:18952): Gtk-WARNING **: 12:11:34.253: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529217698716	Marionette	INFO	Listening on port 38249
+1529217698837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529217800494	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1529217800509	addons.webextension.<unknown>	WARN	Loading extension 'null': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1529217800708	addons.xpi	WARN	Please specify whether you want browser_style or not in your options_ui options.
+1529217802485	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing background.persistent: Event pages are not currently supported. This will run as a persistent background page.
+1529217802500	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Loading extension '{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}': Reading manifest: Error processing storage: An unexpected property was found in the WebExtension manifest.
+1529217802541	addons.webextension.{d10d0bf8-f5b5-c8b4-a8b2-2b9879e08c5d}	WARN	Please specify whether you want browser_style or not in your browser_action options.
+JavaScript warning: moz-extension://91d96aa5-ba42-4cbb-b641-e63ca65681fd/lib/adblockplus.js, line 0: Successfully compiled asm.js code (total compilation time 11ms; not stored in cache (too small to benefit))
