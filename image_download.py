@@ -2,7 +2,7 @@ import urllib.request
 from selenium import webdriver
 
 def getAllImgLinks():
-	mainURL = 'https://www.drawingtutorials101.com/Cartoon-Characters-drawing-tutorials'
+	mainURL = 'https://www.drawingtutorials101.com/Anime-and-Manga-drawing-tutorials'
 	browser = webdriver.Firefox(executable_path="/home/techierishi/selenium_drivers/geckodriver")
 	browser.set_page_load_timeout(60*10)
 	browser.get(mainURL)
@@ -10,14 +10,14 @@ def getAllImgLinks():
 	allAnchorTexts = browser.find_elements_by_class_name("block_category")
 	allAnchorTextsLinks = []
 
-	startsFrom = 'Spiderman'
-	shouldResume = True
+	startsFrom = 'Air'
+	shouldResume = False
 
 	for linkToKeep in allAnchorTexts:
 		linkTextPair = {}
 		tutUrl = linkToKeep.get_attribute("href")
 		tutText = linkToKeep.text
-		if(tutText == startsFrom && shouldResume == False):
+		if(tutText == startsFrom and shouldResume == False):
 			shouldResume = True
 
 		if(shouldResume):
@@ -29,7 +29,7 @@ def getAllImgLinks():
 	
 	# print('allAnchorTextsLinks',allAnchorTextsLinks)
 def goToTutorialSublist(allAnchorTextsLinks, browser):
-	myfile = open('CartoonCharacteres2.html', 'w')
+	myfile = open('Animes2.html', 'w')
 
 	for linkToGo in allAnchorTextsLinks:
 		browser.get(linkToGo["link"])
