@@ -1359,3 +1359,510 @@ JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeErr
 JavaScript error: https://c2.rfihub.net/static/js/vw_min-0.4.js, line 1: TypeError: e.contains is not a function
 JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60119778/20170317181455771/Hangout%20728x90/banner.js, line 111: SyntaxError: 08 is not a legal ECMA-262 octal constant
 JavaScript warning: https://s0.2mdn.net/ads/richmedia/studio/pv2/60119778/20170317181455771/Hangout%20728x90/banner.js, line 111: SyntaxError: 08 is not a legal ECMA-262 octal constant
+1529203936294	geckodriver	INFO	geckodriver 0.21.0
+1529203936379	geckodriver	INFO	Listening on 127.0.0.1:51357
+1529203937340	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.V90oBHc13o6B"
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.199: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.235: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.235: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:11979): Gtk-WARNING **: 08:22:26.236: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529203955071	Marionette	INFO	Listening on port 40503
+1529203955391	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/r20180613/r20180604/show_ads_impl.js, line 1: Error: Bad href
+1529204721453	geckodriver	INFO	geckodriver 0.21.0
+1529204721618	geckodriver	INFO	Listening on 127.0.0.1:36807
+1529204722661	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.kHID3fjNFWmX"
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.770: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:12373): Gtk-WARNING **: 08:35:26.799: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529204731783	Marionette	INFO	Listening on port 38251
+1529204731823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "services/services"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "156085c5-0017-4150-b225-a731ad248f38/service"
+http://requirejs.org/docs/errors.html#scripterror
+1529204802339	geckodriver	INFO	geckodriver 0.21.0
+1529204802377	geckodriver	INFO	Listening on 127.0.0.1:55175
+1529204802695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.dmn546JUbgWT"
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.331: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:12577): Gtk-WARNING **: 08:36:48.343: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529204812094	Marionette	INFO	Listening on port 36839
+1529204812171	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "156085c5-0017-4150-b225-a731ad248f38/service"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "services/services"
+http://requirejs.org/docs/errors.html#scripterror
+1529205042592	geckodriver	INFO	geckodriver 0.21.0
+1529205042707	geckodriver	INFO	Listening on 127.0.0.1:53821
+1529205042815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.hb6YwHAsGUHD"
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.854: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:12893): Gtk-WARNING **: 08:40:49.910: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529205055282	Marionette	INFO	Listening on port 39769
+1529205055788	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3371: ReferenceError: TweenLite is not defined
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3371: ReferenceError: TweenLite is not defined
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3819: ReferenceError: TweenMax is not defined
+JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 3819: ReferenceError: TweenMax is not defined
+JavaScript error: https://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://tpc.googlesyndication.com/sodar/6uQTKQJz.html, line 29: NS_ERROR_NOT_INITIALIZED: 
+[Parent 12893, Gecko_IOThread] WARNING: pipe error (103): Connection reset by peer: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529205347948	geckodriver	INFO	geckodriver 0.21.0
+1529205347953	geckodriver	INFO	Listening on 127.0.0.1:54019
+1529205348966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.JqFn3bVivxeB"
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.244: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:13253): Gtk-WARNING **: 08:45:50.246: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529205352471	Marionette	INFO	Listening on port 43995
+1529205352496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "services/services"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://sumo.b-cdn.net/virtual/dba24d6e0c3f7cfa31e0773cf275536d36c68c86/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js, line 1: Error: Network Error
+JavaScript error: https://sumo.b-cdn.net/virtual/dba24d6e0c3f7cfa31e0773cf275536d36c68c86/client/js/156085c5-0017-4150-b225-a731ad248f38/service.js, line 1: Error: Network Error
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1529205805139	geckodriver	INFO	geckodriver 0.21.0
+1529205805145	geckodriver	INFO	Listening on 127.0.0.1:35897
+1529205806200	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.TT04F4l9PoJJ"
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.643: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:13787): Gtk-WARNING **: 08:53:27.645: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529205810049	Marionette	INFO	Listening on port 43953
+1529205810132	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529206031861	geckodriver	INFO	geckodriver 0.21.0
+1529206031892	geckodriver	INFO	Listening on 127.0.0.1:49361
+1529206031983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.d25PJFnp0n3N"
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.765: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:14063): Gtk-WARNING **: 08:57:16.798: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529206040810	Marionette	INFO	Listening on port 38391
+1529206040860	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "156085c5-0017-4150-b225-a731ad248f38/service"
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://load.sumome.com/, line 1: Error: Script error for "services/services"
+http://requirejs.org/docs/errors.html#scripterror
+1529206591091	geckodriver	INFO	geckodriver 0.21.0
+1529206591124	geckodriver	INFO	Listening on 127.0.0.1:39153
+1529206592153	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.bOv0kyOqJsZ5"
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.345: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:14684): Gtk-WARNING **: 09:06:35.348: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529206597954	Marionette	INFO	Listening on port 33057
+1529206597973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 214: TypeError: this._mm is null
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+[Child 14752, Chrome_ChildThread] WARNING: pipe error: Broken pipe: file /build/firefox-m9FtQy/firefox-60.0.2+build1/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 709
+1529206931903	geckodriver	INFO	geckodriver 0.21.0
+1529206932268	geckodriver	INFO	Listening on 127.0.0.1:49931
+1529206933015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.KsXgUSqF8jsG"
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.447: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:15155): Gtk-WARNING **: 09:12:20.480: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529206946388	Marionette	INFO	Listening on port 33781
+1529206946521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ad.atdmt.com/i/t.js;adv=11092201684592;ec=11092201685254;adv.a=5977010;c.a=11356960;s.a=3492612;p.a=222502899;a.a=420737242;cache=2019195838;, line 3: TypeError: window.initAtlasTOTS is not a function
+1529207200173	geckodriver	INFO	geckodriver 0.21.0
+1529207200283	geckodriver	INFO	Listening on 127.0.0.1:56389
+1529207201325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.vCM3Tc6eMijC"
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.075: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:15470): Gtk-WARNING **: 09:16:48.122: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529207214116	Marionette	INFO	Listening on port 41513
+1529207214250	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529207526297	geckodriver	INFO	geckodriver 0.21.0
+1529207526348	geckodriver	INFO	Listening on 127.0.0.1:56667
+1529207527382	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.ooYOet29b53i"
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.071: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.117: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.118: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:15872): Gtk-WARNING **: 09:22:18.118: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529207543081	Marionette	INFO	Listening on port 43155
+1529207543340	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529207742141	geckodriver	INFO	geckodriver 0.21.0
+1529207742146	geckodriver	INFO	Listening on 127.0.0.1:49279
+1529207743154	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.aWglkmgZALOI"
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.379: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.381: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:16161): Gtk-WARNING **: 09:25:44.382: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529207746594	Marionette	INFO	Listening on port 44593
+1529207746681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529207990809	geckodriver	INFO	geckodriver 0.21.0
+1529207990814	geckodriver	INFO	Listening on 127.0.0.1:46053
+1529207991824	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.8wxz02GlpH39"
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.034: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:16463): Gtk-WARNING **: 09:29:53.036: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529207995533	Marionette	INFO	Listening on port 34251
+1529207995541	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:16528): dconf-WARNING **: 09:36:39.393: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
