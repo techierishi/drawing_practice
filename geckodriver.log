@@ -2456,3 +2456,40 @@ JavaScript error: https://sumo.b-cdn.net/virtual/2c2913dff448a6fe92b288d3a56be4e
 1529381640519	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: https://ae.nflximg.net/containers/prod/300x250_monet.zip_0b87d030-7278-4751-b923-ebfcc3691fb8/3.5/js/Temple.js, line 1983: TypeError: document.registerElement is not a function
 JavaScript error: https://ae.nflximg.net/containers/prod/300x600_monet.zip_2e196645-d5ee-48e7-aecc-aa61b78a4fd9/1.11/js/Temple.js, line 1986: TypeError: document.registerElement is not a function
+1529418794866	geckodriver	INFO	geckodriver 0.21.0
+1529418794871	geckodriver	INFO	Listening on 127.0.0.1:39869
+1529418795882	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.srjs9SALT7iu"
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.090: Theme directory 4x24/actions of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 16x16@2x/statu of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/action of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/app of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/categorie of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/device of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/emblem of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/emote of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/mimetype of theme Suru has no size field
+
+
+(firefox:5569): Gtk-WARNING **: 20:03:17.092: Theme directory 24x24@2x/place of theme Suru has no size field
+
+1529418799258	Marionette	INFO	Listening on port 36449
+1529418799312	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox/firefox:5636): dconf-WARNING **: 21:12:50.794: Unable to open /var/lib/snapd/desktop/dconf/profile/user: Permission denied
